@@ -1,8 +1,6 @@
 # Deepak Kethavarapu
 
 **Data Science MS Graduate | Python | SQL | Machine Learning | Data Analytics**
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/deepak-kethavarapu)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:deepakkethavarapu2024@gmail.com)
 [![HackerRank](https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white)](https://www.hackerrank.com)
 
